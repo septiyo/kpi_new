@@ -1,0 +1,1 @@
+<img src="stuktur_org.jpg">
